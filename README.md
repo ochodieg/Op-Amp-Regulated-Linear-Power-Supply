@@ -34,9 +34,12 @@ The power supply is engineered to deliver a voltage range of 5-27v capable of de
 ## Project Folders
 
 - [docs/](docs/): Detailed project documentation including design files and calculations.
+    - [design/](docs/design): Schematic diagrams, design files, and theory of operation.
+    - [calculations/](docs/calculations): Detailed calculations, formulas, and explanations.
+    - [theory/](docs/theory): Background theory relevant to the project.
 - [src/](src/): Source code for the project.
 - [hardware/](hardware/): Bill of materials and assembly instructions.
-- [tests/](tests/): Test cases and results.
+- [tests/](tests/): Test cases, test results, and testing methodologies.
 
 # Introduction
 
